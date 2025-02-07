@@ -1,6 +1,6 @@
 # Hi 👋, I'm Messadia Mohamed Ishak
 
-### 🚀 Code, Creativity & Control 🎭
+### A passionate Computer Science student and programmer.
 
 As a third-year computer science student at the Higher National School of Computer Science (ESI ex. INI), I thrive where logic meets imagination. Whether it's constructing immersive worlds in Unity with C# or engineering seamless web experiences with Django and the MERN stack, I treat development as both an art and a calculated strategy.
 
