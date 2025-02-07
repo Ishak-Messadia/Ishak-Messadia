@@ -12,24 +12,20 @@ Beyond the screen, I’m fluent in communication, negotiation, and anything that
 
 ### 🛠️ Languages and Tools
 
-#### Programming Languages
-- JavaScript, Java, C#, C, Python
+#### 🎨 Programming Languages
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
+#### 📚 Frameworks & Libraries
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?logo=django&logoColor=red) ![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
-#### Frameworks & Libraries
- Django, Django REST Framework, React.js
+#### 🗄️ Databases
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-#### Databases
-- SQL, MySQL, MongoDB
+#### 🎨 Design Tools
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-#### Design Tools
-- Figma
-
-#### Game Engines
-- Unity
-
-#### Spoken Languages
-- Arabe, Français, Anglais
+#### 🎮 Game Engines
+- ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
 ---
 
