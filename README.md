@@ -27,7 +27,6 @@
 #### 🎮 Game Development
 - ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-- ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 
 ---
 
