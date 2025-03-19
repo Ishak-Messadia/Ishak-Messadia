@@ -34,5 +34,3 @@
 
 - **Email**: [mm_messadia@esi.dz](mailto:mm_messadia@esi.dz) | [mohamedishakmessadia@gmail.com](mailto:mohamedishakmessadia@gmail.com)
 - **GitHub**: [Ishak-Messadia](https://github.com/Ishak-Messadia)
-
-If you value concrete outcomes, let's connect.
