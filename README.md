@@ -1,4 +1,4 @@
-# Hi 👋, I'm Messadia Mohamed Ishak
+Messadia Mohamed Ishak
 
 ### I engineer computer science solutions.
 
